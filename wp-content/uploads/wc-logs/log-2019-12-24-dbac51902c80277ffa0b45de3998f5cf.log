@@ -1,0 +1,31 @@
+2019-12-24T18:52:48+00:00 DEBUG action_woocommerce_checkout_create_order => {"$this->capture":true}
+2019-12-24T18:52:48+00:00 DEBUG extra_data => {"$openpay_cc":"new","$save_cc":false,"$capture":true}
+2019-12-24T18:52:48+00:00 INFO processOpenpayCharge Order => 5768
+2019-12-24T18:52:57+00:00 INFO openpay_woocommerce_order_status_change_custom
+2019-12-24T18:52:57+00:00 INFO $old_status: pending
+2019-12-24T18:52:57+00:00 INFO $new_status: processing
+2019-12-24T18:52:57+00:00 INFO $capture: true
+2019-12-24T18:58:21+00:00 DEBUG action_woocommerce_checkout_create_order => {"$this->capture":true}
+2019-12-24T18:58:21+00:00 DEBUG extra_data => {"$openpay_cc":"new","$save_cc":false,"$capture":true}
+2019-12-24T18:58:21+00:00 INFO processOpenpayCharge Order => 5771
+2019-12-24T18:58:24+00:00 INFO openpay_woocommerce_order_status_change_custom
+2019-12-24T18:58:24+00:00 INFO $old_status: pending
+2019-12-24T18:58:24+00:00 INFO $new_status: failed
+2019-12-24T18:58:24+00:00 INFO $capture: 
+2019-12-24T18:58:57+00:00 DEBUG action_woocommerce_checkout_create_order => {"$this->capture":true}
+2019-12-24T18:58:57+00:00 DEBUG extra_data => {"$openpay_cc":"new","$save_cc":false,"$capture":true}
+2019-12-24T18:58:57+00:00 INFO processOpenpayCharge Order => 5771
+2019-12-24T18:59:18+00:00 DEBUG action_woocommerce_checkout_create_order => {"$this->capture":true}
+2019-12-24T18:59:18+00:00 DEBUG extra_data => {"$openpay_cc":"new","$save_cc":false,"$capture":true}
+2019-12-24T18:59:18+00:00 INFO processOpenpayCharge Order => 5771
+2019-12-24T19:00:12+00:00 DEBUG action_woocommerce_checkout_create_order => {"$this->capture":true}
+2019-12-24T19:00:12+00:00 DEBUG extra_data => {"$openpay_cc":"new","$save_cc":false,"$capture":true}
+2019-12-24T19:00:12+00:00 INFO processOpenpayCharge Order => 5771
+2019-12-24T19:00:21+00:00 INFO openpay_woocommerce_order_status_change_custom
+2019-12-24T19:00:21+00:00 INFO $old_status: failed
+2019-12-24T19:00:21+00:00 INFO $new_status: processing
+2019-12-24T19:00:21+00:00 INFO $capture: true
+2019-12-24T19:05:28+00:00 INFO openpay_woocommerce_order_status_change_custom
+2019-12-24T19:05:28+00:00 INFO $old_status: processing
+2019-12-24T19:05:28+00:00 INFO $new_status: completed
+2019-12-24T19:05:28+00:00 INFO $capture: true

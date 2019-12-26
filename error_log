@@ -1,0 +1,773 @@
+[30-Oct-2019 23:25:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/koniwi/public_html/test/wp-content/plugins/js_composer/include/classes/core/shared-templates/importer/class-vc-wp-import.php on line 360
+[30-Oct-2019 23:25:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8192 bytes) in /home/koniwi/public_html/test/wp-content/plugins/js_composer/include/classes/settings/class-vc-settings.php on line 874
+[30-Oct-2019 23:26:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/koniwi/public_html/test/wp-content/plugins/js_composer/include/classes/core/shared-templates/importer/class-vc-wp-import.php on line 360
+[30-Oct-2019 23:26:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/koniwi/public_html/test/wp-admin/includes/user.php on line 720
+[30-Oct-2019 23:27:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28672 bytes) in /home/koniwi/public_html/test/wp-admin/includes/class-wp-list-table.php on line 648
+[30-Oct-2019 23:30:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/koniwi/public_html/test/wp-content/plugins/woocommerce-admin/src/API/Reports/Stock/Controller.php on line 195
+[30-Oct-2019 23:30:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/koniwi/public_html/test/wp-includes/class-wp-hook.php on line 275
+[30-Oct-2019 23:30:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/koniwi/public_html/test/wp-content/plugins/woocommerce-admin/src/API/Reports/Downloads/Controller.php on line 323
+[30-Oct-2019 23:30:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/log-handlers/class-wc-log-handler-file.php on line 1
+[30-Oct-2019 23:31:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/koniwi/public_html/test/wp-includes/rest-api/endpoints/class-wp-rest-controller.php on line 608
+[30-Oct-2019 23:31:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/log-handlers/class-wc-log-handler-file.php on line 431
+[31-Oct-2019 00:00:01 UTC] Sync all products using feed
+[31-Oct-2019 00:00:01 UTC] Generating product feed file
+[31-Oct-2019 00:00:01 UTC] 2429: No options for pa_sound-stype
+[31-Oct-2019 00:00:01 UTC] 2429: No options for pa_wireless
+[31-Oct-2019 00:00:01 UTC] 2429: No options for dimensions
+[31-Oct-2019 00:00:01 UTC] 2429: No options for weight
+[31-Oct-2019 00:00:01 UTC] 2429: No options for battery-life
+[31-Oct-2019 00:00:01 UTC] 3120: No options for material
+[31-Oct-2019 00:00:01 UTC] 3120: No options for capacity
+[31-Oct-2019 00:00:01 UTC] 3120: No options for size
+[31-Oct-2019 00:00:01 UTC] 3120: No options for weight
+[31-Oct-2019 00:00:01 UTC] 3124: No options for pa_wireless
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:01 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 258
+[31-Oct-2019 00:00:02 UTC] PHP Notice:  Undefined index: default_product in /home/koniwi/public_html/test/wp-content/plugins/facebook-for-woocommerce/includes/fbproductfeed.php on line 286
+[31-Oct-2019 00:00:02 UTC] Sync all products using feed, feed file generated
+[31-Oct-2019 00:00:02 UTC] Sync all products using feed, facebook feed already exists.
+[31-Oct-2019 00:01:46 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:01:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:01:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:02:55 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:02:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:02:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:03:07 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:03:07 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:03:07 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:03:13 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:03:13 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:03:13 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:03:25 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:03:25 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:03:25 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:04:43 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:04:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:04:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:08:48 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:08:48 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:08:48 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:10:46 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:10:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:10:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:12:51 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:12:51 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:12:51 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:13:28 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:13:28 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:13:28 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:16:15 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:16:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:16:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:25:41 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:25:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:25:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:25:45 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:25:45 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:25:45 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:25:45 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:25:55 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:25:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:25:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:25:58 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:25:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:25:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:25:58 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:26:06 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:26:06 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:26:06 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:26:08 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:26:08 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:26:08 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:26:09 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:26:31 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:26:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:26:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:26:34 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:26:34 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:26:34 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:26:35 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:27:21 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:21 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:21 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:27:25 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:25 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:25 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:27:25 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:27:29 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:27:32 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:27:32 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:27:42 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:42 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:42 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:27:45 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:45 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:45 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:27:45 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:27:46 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:27:48 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:48 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:48 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:27:51 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:51 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:27:51 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:27:51 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:28:14 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:14 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:14 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:28:17 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:17 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:17 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:28:18 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:28:26 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:28:29 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:28:29 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:28:33 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:28:35 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:28:36 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:28:37 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:28:39 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:28:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:28:40 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:29:07 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:07 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:07 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:09 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:09 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:09 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:11 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:11 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:11 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:12 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:12 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:12 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:15 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:15 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:29:29 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:32 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:32 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:29:40 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:43 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:43 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:29:46 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:49 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:49 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:29:55 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:56 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:56 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:56 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:59 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:29:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:29:59 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:30:09 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:09 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:09 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:09 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:09 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:09 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:10 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:10 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:10 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:11 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:11 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:11 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:13 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:13 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:13 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:13 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:13 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:13 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:15 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:15 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:17 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:17 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:17 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:17 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:17 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:17 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:18 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:18 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:18 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:19 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:19 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:19 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:22 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:22 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:22 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:23 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:30:23 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:23 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:23 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:26 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:26 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:30:29 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:30 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:30 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:30 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:31 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:32 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:33 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:34 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:34 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:34 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:35 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:36 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:37 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:38 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:38 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:38 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:39 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:41 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:41 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:43 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:44 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:44 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:48 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:48 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:48 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:48 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:30:56 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:56 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:56 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:57 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:57 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:57 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:57 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:57 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:57 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:58 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:30:58 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:30:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:00 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:00 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:00 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:00 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:00 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:00 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:01 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:01 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:01 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:01 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:01 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:01 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:01 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:01 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:01 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:02 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:02 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:02 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:03 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:03 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:03 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:04 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:04 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:04 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:05 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:05 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:05 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:06 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:06 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:06 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:08 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:08 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:08 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:09 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:31:15 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:18 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:18 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:18 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:18 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:31:28 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:28 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:28 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:31 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:31 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:31:36 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:39 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:40 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:31:46 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:47 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:47 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:47 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:50 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:31:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:31:50 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:35:48 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:35:48 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:35:48 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:35:53 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:35:53 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:35:53 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:35:53 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:36:24 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:24 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:24 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:25 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:25 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:25 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:26 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:26 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:28 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:28 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:28 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:30 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:30 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:30 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:32 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:33 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:34 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:34 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:34 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:36 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:37 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:40 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:40 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:36:41 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:44 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:45 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:36:55 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:58 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:36:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:36:59 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:37:41 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:37:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:37:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:37:44 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:37:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:37:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:37:44 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:38:15 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:15 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:38:16 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:16 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:16 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:38:19 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:19 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:19 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:38:19 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:38:39 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:38:42 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:42 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:42 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:38:42 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:38:50 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:38:53 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:53 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:38:53 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:38:54 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:39:03 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:39:03 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:39:03 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:39:07 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:39:07 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:39:07 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:39:07 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:43:16 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:16 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:16 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:43:20 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:20 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:20 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:43:20 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:43:22 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:22 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:22 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:43:22 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:22 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:22 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:43:25 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:25 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:25 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:43:25 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:43:35 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:43:38 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:38 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:38 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:43:38 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:43:47 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:47 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:47 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:43:50 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:43:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:43:50 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:44:00 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:00 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:00 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:03 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:03 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:03 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:03 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:44:35 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:38 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:38 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:38 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:41 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:41 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:44:42 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:42 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:42 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:44 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:45 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:44:46 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:49 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:49 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:44:50 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:53 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:53 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:53 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:53 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:44:55 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:58 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:44:58 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:44:59 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:44:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:45:02 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:45:02 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:45:02 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:45:04 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:45:04 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:45:04 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:45:05 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:46:21 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:46:21 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:46:21 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:46:24 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:46:24 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:46:24 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:46:24 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:47:47 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:47 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:47 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:47:50 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:47:50 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:47:55 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:55 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:47:56 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:56 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:56 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:47:58 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:47:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:00 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:00 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:00 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:01 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:48:29 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:32 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:32 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:48:33 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:36 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:36 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:48:37 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:39 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:40 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:48:40 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:40 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:43 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:43 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:48:44 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:44 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:47 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:47 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:47 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:47 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:48:49 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:52 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:52 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:52 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:52 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:48:56 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:56 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:56 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:59 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:48:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:48:59 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:49:22 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:22 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:22 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:49:26 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:49:26 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:49:28 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:28 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:28 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:49:31 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:49:31 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:49:32 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:49:35 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:49:35 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:49:38 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:38 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:38 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:49:41 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:49:41 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:49:41 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:51:08 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:08 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:08 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:51:11 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:11 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:11 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:51:12 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:51:26 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:26 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:51:29 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:29 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:51:29 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 00:51:31 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:51:33 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:33 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:51:34 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:34 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:34 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:51:37 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825
+[31-Oct-2019 00:51:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 829
+[31-Oct-2019 00:51:37 UTC] PHP Notice:  wc_ajax_headers cannot set headers - headers already sent by /home/koniwi/public_html/test/wp-includes/nav-menu.php on line 825 in /home/koniwi/public_html/test/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 67
+[31-Oct-2019 01:16:04 America/Mexico_City] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/koniwi/public_html/test/wp-content/plugins/openpay-stores/openpay_stores.php on line 48
+[31-Oct-2019 01:16:04 America/Mexico_City] PHP Warning:  file_get_contents(https://sandbox-dashboard.openpay.mx/paynet-pdf/mv8hvhmeyad8ylsdtdcf/1010102726673882): failed to open stream: no suitable wrapper could be found in /home/koniwi/public_html/test/wp-content/plugins/openpay-stores/openpay_stores.php on line 48
+[31-Oct-2019 01:16:04 America/Mexico_City] The WC_Order::reduce_order_stock function is deprecated since version 3.0. Replace with wc_reduce_stock_levels.
+[18-Nov-2019 17:50:02 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 55
+[18-Nov-2019 17:50:02 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 55
+[18-Nov-2019 17:50:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[18-Nov-2019 17:50:03 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 55
+[18-Nov-2019 17:50:03 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 55
+[18-Nov-2019 17:50:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[18-Nov-2019 17:50:06 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 55
+[18-Nov-2019 17:50:06 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 55
+[18-Nov-2019 17:50:06 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[18-Nov-2019 17:51:21 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 12
+[18-Nov-2019 17:51:21 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 12
+[18-Nov-2019 17:51:21 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[18-Nov-2019 18:58:02 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 12
+[18-Nov-2019 18:58:02 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 12
+[18-Nov-2019 18:58:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[18-Nov-2019 18:58:05 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 12
+[18-Nov-2019 18:58:05 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/koniwi/public_html/test/wp-includes/functions.php on line 12
+[18-Nov-2019 18:58:05 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[24-Dec-2019 18:52:56 UTC] [OPENPAY Notice] Undefined property of OpenpayCharge instance: payment_method
+[24-Dec-2019 19:00:20 UTC] [OPENPAY Notice] Undefined property of OpenpayCharge instance: payment_method
+[26-Dec-2019 16:08:13 UTC] [OPENPAY Notice] Undefined property of OpenpayCharge instance: payment_method

@@ -1,0 +1,11 @@
+2019-12-26T15:39:26+00:00 INFO openpay_woocommerce_order_status_change_custom
+2019-12-26T15:39:26+00:00 INFO $old_status: processing
+2019-12-26T15:39:26+00:00 INFO $new_status: completed
+2019-12-26T15:39:26+00:00 INFO $capture: true
+2019-12-26T16:08:04+00:00 DEBUG action_woocommerce_checkout_create_order => {"$this->capture":true}
+2019-12-26T16:08:04+00:00 DEBUG extra_data => {"$openpay_cc":"new","$save_cc":false,"$capture":true}
+2019-12-26T16:08:04+00:00 INFO processOpenpayCharge Order => 5795
+2019-12-26T16:08:13+00:00 INFO openpay_woocommerce_order_status_change_custom
+2019-12-26T16:08:13+00:00 INFO $old_status: pending
+2019-12-26T16:08:13+00:00 INFO $new_status: processing
+2019-12-26T16:08:13+00:00 INFO $capture: true
