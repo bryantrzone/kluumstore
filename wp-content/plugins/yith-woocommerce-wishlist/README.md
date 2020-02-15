@@ -72,12 +72,25 @@ We're also working hard to release a developer guide; please, follow our [social
 
 ## Changelog
 
-### 3.0.5 - Released on 23 December 2019 =
+### 3.0.6 – Released on 04 February 2020
 
-* New: support for WooCommerce 3.9
+* Tweak: avoid redirect for guest users if wishlist page is set to my-account
+* Tweak: minor improvements to localization
+* Tweak: update wrong text domains
+* Tweak: changed default value for ATW icons
+* Tweak: set wishlist session cookie JIT
+* Tweak: use secure cookie for sessions, when possible (thanks to Ahmed)
+* Tweak: improved cache handling for get_default_wishlist method
+* Tweak: even if system cannot set session cookie, calculate session_id and use it for the entire execution
+* Update: Italian language
 * Update: plugin framework
-* Tweak: register original product id instead of translated one, when saving item in DB
-* Fix: customer not being redirected to cart after clicking Add to Cart button in wishlist
+* Fix: prevent error if list doesn't exists
+* Fix: issue with wishlist_id query param
+* Fix: items query now search for product in original language
+* Fix: returning correct wishlist and user id to yith_wcwl_added_to_wishlist and yith_wcwl_removed_from_wishlist actions (thanks to danielbitzer)
+* Fix: issue with default value for yith_wcwl_positions option
+* Fix: added key name to avoid DB error during install or update procedure
+* Dev: added yith_wcwl_shortcode_share_link_url filter
 
 ## Support
 

@@ -1,8 +1,8 @@
 === WooCommerce Admin ===
 Contributors: automattic
 Tags: ecommerce, e-commerce, store, sales, reports, analytics, dashboard, activity, notices, insights, stats, woo commerce, woocommerce
-Requires at least: 5.2.0
-Tested up to: 5.3.0
+Requires at least: 5.3.0
+Tested up to: 5.3.2
 Requires PHP: 5.6.20
 Stable tag: 1.0.0
 License: GPLv3
@@ -34,7 +34,7 @@ WooCommerce Admin also allows store owners to customize a new dashboard screen w
 
 = Minimum Requirements =
 
-* WordPress 5.2
+* WordPress 5.3
 * WooCommerce 3.6.0 or greater
 * PHP version 5.6.20 or greater. PHP 7.2 or greater is recommended
 * MySQL version 5.0 or greater. MySQL 5.6 or greater is recommended
@@ -70,6 +70,107 @@ Release and roadmap notes are available on the [WooCommerce Developers Blog](htt
 3. Analytics
 
 == Changelog ==
+
+= 0.25.0 2020-01-29 =
+
+- Fix: Onboarding: Mark profiler complete on WC update #3590 (On Merge to WC Core, Onboarding) 
+- Dev: fix strict standards in Scheduler classes #3583  
+- Task: Avoid redundant/unnecessary cleanup. #3580 (On Merge to WC Core) 
+- Fix: Fix styling of search control in report table header and filters. #3603 (Analytics, Components, Packages) 
+- Fix: report table search component. #3618 (Analytics, Components, Packages) 
+- Performance: Remove unnecessary use of lodash get #3598 (Onboarding) 
+- Tweak: don't modify page titles for existing WooCommerce pages. #3585 (On Merge to WC Core) 
+- Dev: Handle custom currency formats #3349 (Components, Packages) 
+- Fix: Update broken note action hooks #3535 (Activity Panel, Inbox) 
+- Dev: Onboarding: Only Show Retry Button on Plugin install failure #3545  
+- Dev: SelectControl: Add an option to show all options on refocus #3551 (Components, Packages) 
+- Fix: SQL error in category table sort. #3521 (Analytics) 
+- Dev: Onboarding: Add option to track appearance completion #3503 (Onboarding) 
+- Enhancement: add customer privacy erasure support. #3511 (Analytics) 
+- Fix: handle uninstallation when in feature plugin mode. #3546 (On Merge to WC Core) 
+- Fix: Exception on dashboard once Onboarding tasks are complete #3513  
+- Tweak: Onboarding - Add Skip Step link on Themes Step. #3490 (Onboarding) 
+- Bug: Add SelectControl debouncing and keyboard fixes #3507 (Components, Packages) 
+- Tweak: Included RegExp for JS files in examples.config.js #3510 (Build, Extensibility) 👏 @yash-webkul
+- Bug: Onboarding: Don't show skip link if no plugins exist to skip #3485 (Onboarding) 
+- Fix: Make package-based load inert when plugin is active. #3555 (On Merge to WC Core) 
+- Dev: Onboarding: Add purchase products task list item #3472 (Onboarding) 
+- Fix: Properly style theme selection button in Site Profiler #3489  
+- Dev: Onboarding: Add tracks to extension purchase task and modal #3493 (Onboarding) 
+- Tweak: Change Refunds to Returns on the dashboard. #3514  
+- Dev: Update translation scripts and instructions for creating `.json` files. #3433 (Build) 
+- Bug: Onboarding: Add in tracks for failed plugin installation #3483 (Onboarding) 
+- Dev: Onboarding: Add theme install and activation endpoints #3482 (Onboarding, REST API) 
+- Fix: component styles for WordPress 5.3. #3357 (Build, Components, Design, Packages) 
+- Dev: Onboarding: Add another option to platforms. #3471 (Onboarding) 
+- Fix: `CompareFilter` functionality regression. #3421 (Analytics, Components, Packages) 
+- Fix: don't run database migrations on new installs. #3473  
+- Fix: WC-Admin header on settings and status pages. #3389 (Activity Panel) 
+- Enhancement: allow filtering of hidden WP notices. #3391 (Activity Panel, Extensibility) 
+- Fix: show pending product reviews when comment moderation is disabled. #3459 (Activity Panel) 
+- Dev: AssetDataRegistry: update SQL example #3418  
+- Tweak: Scroll to notices when displayed while the notice area is scrolled out of view. #3390 (Activity Panel) 
+- Dev: DataStores: normalize contexts to plural #3419  
+- Enhancement: allow report cache layer to be turned off. #3434  
+- Bug: Fix user data fields filter name. #3428 (Dashboard) 
+- Fix: error when trying to download report data. #3429 (Analytics) 
+- Dev: Update to latest PHPUnit 7 #3571 (Build) 
+- Fix: invalidate Reports cache when changing Analytics settings. #3465 (Analytics, REST API, Settings) 
+- Bug: Onboarding: Skip Shipping connect step if Jetpack is already connected #3486 (Onboarding) 
+- Fix: Time zone offset calculation on customer last active date. #3388 (Analytics) 
+- Dev: Default the Calypso environment to production #3347 (Onboarding) 
+- Bug: Onboarding: Update shipping task button text #3400 (Onboarding) 
+- Bug: Onboarding: Update check for TOS accepted in tax step #3245 (Onboarding) 
+- Fix: remove the header when user doesn't have required permissions #3386 (Activity Panel) 
+- Dev: Add autocomplete props to address fields in onboarding and adjust country/state matching #3338 (Onboarding) 
+- Dev: Add purchase modal at the end of the profile wizard #3444 (Onboarding) 
+- Dev: Standardize hook and filter prefixes. #3339 (On Merge to WC Core) 
+- Fix: make report filter date props optional #3359 (Components, Extensibility, Packages) 
+- Tweak: Add/disable plugin filter #3361  
+- Dev: Onboarding -  Add button to continue setup after importing products #3402 (Build, Onboarding)
+
+= 0.24.0 2020-01-06 =
+
+- Bug: Add SelectControl debouncing and keyboard fixes #3507 (Components, Packages)
+- Fix: Properly style theme selection button in Site Profiler #3489
+- Dev: Update translation scripts and instructions for creating `.json` files. #3433 (Build)
+- Dev: Add initial documentation for the historical data import. #3506 (Documentation)
+- Dev: Onboarding: Add purchase products task list item #3472 (Onboarding)
+- Dev: Onboarding: Add another option to platforms. #3471 (Onboarding)
+- Dev: Add singular/plural distinction to onboarding plugins installation #3517 (Onboarding)
+- Dev: Onboarding: Add theme install and activation endpoints #3482 (Onboarding, REST API)
+- Tweak: Onboarding - Add Skip Step link on Themes Step. #3490 (Onboarding)
+- Bug: Onboarding: Skip Shipping connect step if Jetpack is already connected #3486 (Onboarding)
+- Bug: CI: use PR repo instead of main repo when checking out branches. #3512 (Build)
+- Tweak: Included RegExp for JS files in examples.config.js #3510 (Build, Extensibility) 👏 @yash-webkul
+- Dev: Onboarding: Add tracks to extension purchase task and modal #3493 (Onboarding)
+- Tweak: Change Refunds to Returns on the dashboard. #3514
+- Fix: invalidate Reports cache when changing Analytics settings. #3465 (Analytics, REST API, Settings)
+- Dev: DataStores: normalize contexts to plural #3419
+- Dev: AssetDataRegistry: update SQL example #3418
+- Fix: show pending product reviews when comment moderation is disabled. #3459 (Activity Panel)
+- Enhancement: allow report cache layer to be turned off. #3434
+- Tweak: Scroll to notices when displayed while the notice area is scrolled out of view. #3390 (Activity Panel)
+- Dev: Add autocomplete props to address fields in onboarding and adjust country/state matching #3338 (Onboarding)
+- Dev: Update instructions for documenting new components. #3443 (Components, Documentation)
+- Dev: Add purchase modal at the end of the profile wizard #3444 (Onboarding)
+- Fix: component styles for WordPress 5.3. #3357 (Build, Components, Design, Packages)
+- Bug: Onboarding: Don't show skip link if no plugins exist to skip #3485 (Onboarding)
+- Bug: Onboarding: Add in tracks for failed plugin installation #3483 (Onboarding)
+- Dev: Fix the "is this card useful" prompt display #3427 (Onboarding)
+- Tweak: Add/disable plugin filter #3361
+- Bug: Onboarding: Update shipping task button text #3400 (Onboarding)
+- Dev: Default the Calypso environment to production #3347 (Onboarding)
+- Dev: Standardize hook and filter prefixes. #3339 (On Merge to WC Core)
+- Fix: WC-Admin header on settings and status pages. #3389 (Activity Panel)
+- Dev: Fix revenue question translation with currency conversion #3358 (Onboarding, Packages)
+- Fix: make report filter date props optional #3359 (Components, Extensibility, Packages)
+- Dev: Onboarding -  Add button to continue setup after importing products #3402 (Build, Onboarding)
+- Bug: Onboarding: Update check for TOS accepted in tax step #3245 (Onboarding)
+
+= 0.23.3 2019-12-26 =
+
+- Fix: don't run database migrations on new installs. #3473
 
 = 0.23.2 2019-12-19 =
 
@@ -374,7 +475,6 @@ Release and roadmap notes are available on the [WooCommerce Developers Blog](htt
 - Fix: Dashboard: Rename class/feature to remove conflict with legacy dashboard widget #2138
 - Fix: add defaultOrder field to tablecard header #2139 👏 @rrennick
 - Fix: Travis: Exit scripts with error when one occurs #2184
-- Dev: Add profile wizard base page #1933
 - Dev: Save section/block preferences in user data #2148
 - Fix: Vertically center Dashboard 'Add more' button #2171
 - Fix: Don't make an API call when there are no performance indicators #2157

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.3.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-12-12 17:28:06+0000\n"
+"PO-Revision-Date: 2020-01-04 17:46:33+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12181,7 +12181,7 @@ msgstr "https://es.wordpress.org/support/"
 #: wp-login.php:121 wp-includes/admin-bar.php:154
 #: wp-includes/widgets/class-wp-widget-meta.php:75
 msgid "https://wordpress.org/"
-msgstr "https://es.wordpress.org/"
+msgstr "https://es-mx.wordpress.org/"
 
 #: wp-includes/js/dist/editor.js:8120
 msgid "Status"

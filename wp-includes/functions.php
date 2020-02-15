@@ -68,7 +68,32 @@ function my_hide_shipping_when_free_is_available( $rates ) {
 	return ! empty( $free ) ? $free : $rates;
 }
 add_filter( 'woocommerce_package_rates', 'my_hide_shipping_when_free_is_available', 100 );
-	
+
+
+
+function my_login_logo() { ?>
+    <style type="text/css">
+        .login h1 a {
+            width: auto !important;
+            background-image: url("https://kluumstore.com.mx/wp-content/uploads/2019/12/kluum-logotiendacolor.png") !important;
+            background-size: auto !important;
+			background-size: 186px !important;
+        }
+    </style>
+<?php }
+add_action( 'login_enqueue_scripts', 'my_login_logo' );
+
+function my_login_logo_url() {
+    return home_url();
+}
+add_filter( 'login_headerurl', 'my_login_logo_url' );
+ 
+function my_login_logo_url_title() {
+    return 'Kluum Store';
+}
+add_filter( 'login_headertitle', 'my_login_logo_url_title' );
+ 
+
 /**
  * Remove password strength check.
  */
